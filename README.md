@@ -1,8 +1,8 @@
 
-YOUR FULL NAME : Akash Raghunath Bhadane
-DOMAIN NAME : Software Development
-INTERN ID : CT4SD2988
-BATCH DURATION :JUNE 25th,2024 to JULY 25th, 2024.
+YOUR FULL NAME : Akash Raghunath Bhadane   
+DOMAIN NAME : Software Development         
+INTERN ID : CT4SD2988                  
+BATCH DURATION :JUNE 25th,2024 to JULY 25th, 2024.            
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CodeTech Internship Tasks - Software Development :
 
@@ -34,10 +34,10 @@ project output:
 ![Screenshot 2024-07-23 120824](https://github.com/user-attachments/assets/061b3fa7-ca8f-416f-9e22-3516ef0c2c93)
 
 _________________________________________________________________________________________________________________________________________________________________________
-Task 2: Learning Platform:
+Task 2: Learning Platform:                                                                                                       
 
-The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:
-
+The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:                               
+                                                                                                                                                                          
 •	User Authentication: Secure user login and registration system.
 •	Course Management: Creation, editing, and deletion of courses.
 •	Content Delivery: Videos, articles, and quizzes for course content.
