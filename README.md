@@ -28,13 +28,16 @@ project output:
 
 _________________________________________________________________________________________________________________________________________________________________________
 Task 2: Learning Platform:
+
 The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:
+
 •	User Authentication: Secure user login and registration system.
 •	Course Management: Creation, editing, and deletion of courses.
 •	Content Delivery: Videos, articles, and quizzes for course content.
 •	Progress Tracking: Track user progress through courses.
 •	Discussion Forums: Users can interact and discuss course material.
-Technologies Used
+
+Technologies Used:
 •	Frontend: HTML, CSS, JavaScript.
 
 project output :
