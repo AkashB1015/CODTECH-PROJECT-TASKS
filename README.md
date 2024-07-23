@@ -1,1 +1,34 @@
-# CODTECH-PROJECT-TASKS
+CodeTech Internship Tasks - Software Development :
+
+  Welcome to the repository showcasing my completed tasks for the CodeTech internship in Software Development. This project highlights my skills, creativity, and problem-solving abilities through the development of two primary projects: an e-commerce site and a learning platform.
+Project Overview.
+During my internship at CodeTech, I was assigned two main tasks:
+
+1.	E-commerce Site Development
+2.	Learning Platform Development
+   
+This repository includes all the code and related materials for both projects.
+
+Task 1: E-commerce Site:
+
+The e-commerce site was developed to provide a seamless shopping experience for users. Key features of the site include:
+
+•	User Authentication: Secure user login and registration system.
+•	Product Listings: Display of products with detailed descriptions and images.
+•	Shopping Cart: Add, remove, and update items in the shopping cart.
+•	Order Management: Users can place orders and view their order history.
+•	Responsive Design: Ensures the site is accessible on various devices.
+
+Technologies Used:
+•	Frontend: HTML, CSS, JavaScript, 
+
+Task 2: Learning Platform:
+The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:
+•	User Authentication: Secure user login and registration system.
+•	Course Management: Creation, editing, and deletion of courses.
+•	Content Delivery: Videos, articles, and quizzes for course content.
+•	Progress Tracking: Track user progress through courses.
+•	Discussion Forums: Users can interact and discuss course material.
+Technologies Used
+•	Frontend: HTML, CSS, JavaScript.
+
