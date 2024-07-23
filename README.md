@@ -6,7 +6,8 @@ BATCH DURATION :JUNE 25th,2024 to JULY 25th, 2024.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CodeTech Internship Tasks - Software Development :
 
-  Welcome to the repository showcasing my completed tasks for the CodeTech internship in Software Development. This project highlights my skills, creativity, and problem-solving abilities through the development of two primary projects: an e-commerce site and a learning platform.
+Welcome to the repository showcasing my completed tasks for the CodeTech internship in Software Development.
+This project highlights my skills, creativity, and problem-solving abilities through the development of two primary projects: an e-commerce site and a learning platform.
 Project Overview.
 During my internship at CodeTech, I was assigned two main tasks:
 
