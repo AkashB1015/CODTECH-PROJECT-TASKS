@@ -26,6 +26,7 @@ project output:
 
 ![Screenshot 2024-07-23 120824](https://github.com/user-attachments/assets/061b3fa7-ca8f-416f-9e22-3516ef0c2c93)
 
+_________________________________________________________________________________________________________________________________________________________________________
 Task 2: Learning Platform:
 The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:
 •	User Authentication: Secure user login and registration system.
@@ -40,3 +41,5 @@ project output :
 
 ![Screenshot 2024-07-21 122329](https://github.com/user-attachments/assets/bb266f29-874e-427a-9363-7f476c1ba56a)
 
+
+_________________________________________________________________________________________________________________________________________________________________________
