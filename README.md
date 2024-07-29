@@ -4,7 +4,7 @@ DOMAIN NAME : Software Development
 INTERN ID : CT4SD2988                  
 BATCH DURATION :JUNE 25th,2024 to JULY 25th, 2024.            
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CodeTech Internship Tasks - Software Development :
+<h1> CodeTech Internship Tasks - Software Development : </h1>
 
 Welcome to the repository showcasing my completed tasks for the CodeTech internship in Software Development.
 This project highlights my skills, creativity, and problem-solving abilities through the development of two primary projects: an e-commerce site and a learning platform.
