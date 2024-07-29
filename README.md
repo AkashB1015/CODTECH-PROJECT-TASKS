@@ -16,7 +16,7 @@ During my internship at CodeTech, I was assigned two main tasks:
    
 This repository includes all the code and related materials for both projects.
 
-Task 1: E-commerce Site:
+<h1> Task 1: E-commerce Site: </h1>
 
 The e-commerce site was developed to provide a seamless shopping experience for users. Key features of the site include:
 
@@ -34,7 +34,7 @@ project output:
 ![Screenshot 2024-07-23 120824](https://github.com/user-attachments/assets/061b3fa7-ca8f-416f-9e22-3516ef0c2c93)
 
 _________________________________________________________________________________________________________________________________________________________________________
-Task 2: Learning Platform:                                                                                                       
+<h1> Task 2: Learning Platform: </h1>                                                                                                       
 
 The learning platform was designed to provide educational resources and facilitate learning. Key features of the platform include:                               
                                                                                                                                                                           
