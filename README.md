@@ -19,7 +19,6 @@ This repository includes all the code and related materials for both projects.
 <h1> Task 1: E-commerce Site: </h1>
 
 The e-commerce site was developed to provide a seamless shopping experience for users. Key features of the site include:
-
 •	User Authentication: Secure user login and registration system.
 •	Product Listings: Display of products with detailed descriptions and images.
 •	Shopping Cart: Add, remove, and update items in the shopping cart.
