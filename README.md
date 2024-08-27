@@ -46,7 +46,7 @@ The learning platform was designed to provide educational resources and facilita
 Technologies Used:
 •	Frontend: HTML, CSS, JavaScript.
 
-project output : 
+project output :  
 
 ![Screenshot 2024-07-21 122329](https://github.com/user-attachments/assets/bb266f29-874e-427a-9363-7f476c1ba56a)
 
