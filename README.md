@@ -1,5 +1,5 @@
-                               
-YOUR FULL NAME : Akash Bhadane   
+                                
+YOUR FULL NAME : Akash Bhadane    
 DOMAIN NAME : Software Development         
 INTERN ID : CT4SD2988                  
 BATCH DURATION :JUNE 25th,2024 to JULY 25th, 2024.           
